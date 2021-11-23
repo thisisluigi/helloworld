@@ -1,2 +1,5 @@
 # helloworld
-this is a simple hello world
+//this is a simple hello world
+
+
+console.write("Hello World");
